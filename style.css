@@ -1,0 +1,19 @@
+body {
+	font-family: sans-serif;
+}
+
+#imoveis {
+	display: flex;
+}
+
+.imovel {
+	padding: 50px;
+	margin: 10px;
+	width: 500px;
+	height: auto;
+	flex-direction: row;	  
+} 	flex-wrap: wrap
+
+.img {
+	background-image: url(https://unsplash.com/photos/TWoL-QCZubY);
+}
